@@ -3,6 +3,21 @@
 ANALISIS dan PEMBAHASAN
 
 *TUGAS1 Ekstrak Executable dari PCAP 
+Wireshark adalah salah satu alat analisis lalu lintas jaringan yang paling populer dan digunakan secara luas. Fungsi utama Wireshark dalam menganalisis log dalam lalu lintas adalah untuk menangkap dan menganalisis paket yang dikirim dan diterima di jaringan. Beberapa fungsi utama Wireshark dalam menganalisis log dalam lalu lintas meliputi:
+
+Menangkap Paket: Wireshark memungkinkan pengguna untuk menangkap dan merekam semua paket yang melewati jaringan, termasuk paket dari berbagai protokol seperti TCP, UDP, HTTP, FTP, DNS, dan lainnya.
+
+Menganalisis Paket: Wireshark memungkinkan pengguna untuk menganalisis setiap paket yang ditangkap dan mengeksplorasi isinya. Ini memungkinkan pengguna untuk memeriksa dan memvalidasi data yang dikirim dan diterima oleh aplikasi atau sistem di jaringan.
+
+Menganalisis Protokol: Wireshark memungkinkan pengguna untuk menganalisis dan mempelajari berbagai protokol jaringan, termasuk protokol tingkat rendah seperti TCP/IP, serta protokol tingkat lebih tinggi seperti HTTP, SMTP, FTP, dan lainnya.
+
+Filter Paket: Wireshark memungkinkan pengguna untuk membuat filter untuk paket yang ditangkap sehingga hanya paket tertentu yang ditampilkan dan dianalisis. Ini mempermudah pengguna dalam mencari dan menganalisis paket yang spesifik dan relevan.
+
+Grafik Lalu Lintas: Wireshark memungkinkan pengguna untuk membuat grafik lalu lintas jaringan yang menampilkan jumlah paket yang ditangkap, serta bandwidth yang digunakan. Ini mempermudah pengguna dalam memantau dan memahami lalu lintas jaringan.
+
+Pemecahan Masalah: Wireshark merupakan alat yang sangat berguna dalam pemecahan masalah jaringan. Dengan menggunakan Wireshark, pengguna dapat menemukan dan memperbaiki masalah jaringan seperti bottleneck, latency, dan paket yang hilang atau korup.
+
+Secara keseluruhan, Wireshark sangat bermanfaat dalam menganalisis log dalam lalu lintas jaringan dan memungkinkan pengguna untuk memahami lebih dalam tentang kinerja jaringan dan protokol yang digunakan.
 
 *TUGAS2 Persiapan Log File pada Security Onion Virtual Machine
 - ELK (Elasticsearch, Logstash, dan Kibana) adalah solusi untuk mencapai hal berikut:
